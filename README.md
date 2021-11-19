@@ -6,6 +6,7 @@ My personal List for cool Stuff on the Internet
 
 ### Sozial
 - [social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) -> open-source penetration testing framework
+- [sshtalk](https://2ton.com.au/sshtalk/) -> use in terminal: ssh ssh -oCiphers=+aes256-cbc 2ton.com.au
 
 ### Organization Tools
 - [taskline](https://github.com/perryrh0dan/taskline) - Task Manager in the command line

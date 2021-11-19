@@ -13,7 +13,7 @@ My personal List for cool Stuff on the Internet
 - [wtfutil](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 
 ### Weather
-- [wttr](https://github.com/chubin/wttr.in) - check the weather in the terminal -> [https://wttr.in/steckborn](https://wttr.in/steckborn)
+- [wttr](https://github.com/chubin/wttr.in) - check the weather online -> [https://wttr.in/steckborn](https://wttr.in/steckborn), or in terminal: `curl wttr.in/steckborn`
 
 ### Simulation
 - [x86-64 CPU Architecture Simulation](https://github.com/chximn/CPU)

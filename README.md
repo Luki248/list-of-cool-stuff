@@ -11,6 +11,7 @@ My personal List for cool Stuff on the Internet
 ### Organization Tools
 - [taskline](https://github.com/perryrh0dan/taskline) - Task Manager in the command line
 - [wtfutil](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+- [czkawka](https://github.com/qarmin/czkawka) - find duplicate files and empty folders
 
 ### Weather
 - [wttr](https://github.com/chubin/wttr.in) - check the weather online -> [https://wttr.in/steckborn](https://wttr.in/steckborn), or in terminal: `curl wttr.in/steckborn`

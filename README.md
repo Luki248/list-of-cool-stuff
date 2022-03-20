@@ -18,6 +18,7 @@ My personal List for cool Stuff on the Internet
 
 ### Office
 - [WinApps](https://github.com/Fmstrat/winapps) - Windows Apps for Linux
+- [NirSoft](https://www.nirsoft.net/)
 
 ### Weather
 - [wttr](https://github.com/chubin/wttr.in) - check the weather online -> [https://wttr.in/steckborn](https://wttr.in/steckborn), or in terminal: `curl wttr.in/steckborn`
